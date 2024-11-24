@@ -59,7 +59,7 @@ This project showcases:
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/Customer-Rating-System.git
+git clone https://github.com/chiraniadhruv7/Customer-Rating-System.git
 cd Customer-Rating-System
 ```
 ### **Step 2: Install Dependencies**
@@ -72,7 +72,7 @@ pip install pandas
 1. **Run the Python Script**:  
    Execute the main Python script to generate and analyze customer data.
    ```bash
-   python customer_rating.py
+   python customer_ratings.py
 ---
 ## **8. Future Enhancements**
 This project can be extended with additional features:
